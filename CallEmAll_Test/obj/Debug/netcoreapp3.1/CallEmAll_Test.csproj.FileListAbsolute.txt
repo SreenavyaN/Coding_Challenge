@@ -1,0 +1,11 @@
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\bin\Debug\netcoreapp3.1\CallEmAll_Test.exe
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\bin\Debug\netcoreapp3.1\CallEmAll_Test.deps.json
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\bin\Debug\netcoreapp3.1\CallEmAll_Test.runtimeconfig.json
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\bin\Debug\netcoreapp3.1\CallEmAll_Test.runtimeconfig.dev.json
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\bin\Debug\netcoreapp3.1\CallEmAll_Test.dll
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\bin\Debug\netcoreapp3.1\CallEmAll_Test.pdb
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\obj\Debug\netcoreapp3.1\CallEmAll_Test.AssemblyInfoInputs.cache
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\obj\Debug\netcoreapp3.1\CallEmAll_Test.AssemblyInfo.cs
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\obj\Debug\netcoreapp3.1\CallEmAll_Test.dll
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\obj\Debug\netcoreapp3.1\CallEmAll_Test.pdb
+C:\Users\SreenavyaPavan\source\repos\CallEmAll_Test\obj\Debug\netcoreapp3.1\CallEmAll_Test.csprojAssemblyReference.cache
