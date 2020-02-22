@@ -30,5 +30,5 @@ This program returns -1 in special cases like,
 	i.  	numerical input
 	ii. 	Special charecters
 	iii.	null input
-	iv.		mixed case input	
+	iv.	mixed case input	
 
